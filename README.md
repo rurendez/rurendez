@@ -2,7 +2,7 @@
 
 <!-- Gmail -->
 <a href="mailto:rafa@urendeaz.com">
-<img alt="Priorite" src="[https://camo.githubusercontent.com/b070a7f6855dbf52729ec83a928c93e728f5245e24123a6547912acea3753899/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476d61696c26636f6c6f723d454134333335266c6f676f3d476d61696c266c6f676f436f6c6f723d464646464646266c6162656c3d](https://github.com/rurendez/images/blob/main/CapturaPriorite.JPG)" />
+<img alt="Priorite" src="https://github.com/rurendez/images/blob/main/CapturaPriorite.JPG" />
 </a>
 
 
