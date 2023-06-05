@@ -6,8 +6,10 @@
 </a>
 ![Texto alternativo]([url_de_la_imagen](https://github.com/rurendez/images/blob/main/CapturaPriorite.JPG))
 
-<!--
+
 **rurendez/rurendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--
 
 Here are some ideas to get you started:
 
